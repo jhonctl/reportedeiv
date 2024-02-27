@@ -1,0 +1,45 @@
+body {
+   margin-top: auto;
+   margin-left: 1cm;
+   margin-right: 1cm;
+   background-color: rgb(139, 69, 19);
+}
+
+#C {
+    background-color: rgb(34, 117, 109); 
+    border: none; 
+    color: white;  
+    padding: 10px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 10px; 
+}
+.button:hover {
+    background-color: #45a049; 
+}
+#l{
+    background-color: rgb(37, 116, 108);
+    border: none; 
+    color: white;  
+    padding: 10px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 10px; 
+}
+#l.button:hover {
+    background-color: #010702; 
+}
+table {
+    border-color: rgba(3, 3, 3, 0.925);
+}
+#botton{ 
+    text-align: center;
+}
